@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://office-learning-82aa7.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">973905694600</string>
+  <string name="google_storage_bucket" translatable="false">office-learning-82aa7.appspot.com</string>
+  <string name="project_id" translatable="false">office-learning-82aa7</string>
+  <string name="google_api_key" translatable="false">AIzaSyAe3JPmfM2WizbSeKTNdvp1ImfEiPhiBtc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAe3JPmfM2WizbSeKTNdvp1ImfEiPhiBtc</string>
+  <string name="google_app_id" translatable="false">1:973905694600:android:53f88c4153ef168953343d</string>
+  <string name="default_android_client_id" translatable="false">973905694600-v5kqep7ggqno2llnu2f0cgmcejqomoki.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">973905694600-k2nv4a4k3re30fe9blmvtvjad1pff0di.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973905694600",
+    "firebase_url": "https://office-learning-82aa7.firebaseio.com",
+    "project_id": "office-learning-82aa7",
+    "storage_bucket": "office-learning-82aa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973905694600:android:53f88c4153ef168953343d",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.OfficeLearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973905694600-v5kqep7ggqno2llnu2f0cgmcejqomoki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.OfficeLearning",
+            "certificate_hash": "50527191a44e47008a914fb45ab3391d0151b5ed"
+          }
+        },
+        {
+          "client_id": "973905694600-k2nv4a4k3re30fe9blmvtvjad1pff0di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3JPmfM2WizbSeKTNdvp1ImfEiPhiBtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973905694600-k2nv4a4k3re30fe9blmvtvjad1pff0di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
